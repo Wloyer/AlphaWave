@@ -3,12 +3,21 @@
 
 <form action="">
   <label for=""></label>
-  <label for=""></label><label for="">
-  </label><label for=""></label>
+  <input type="text">
   <label for=""></label>
+  <input type="text">
   <label for=""></label>
+  <input type="text">
   <label for=""></label>
+  <input type="text">
   <label for=""></label>
+  <input type="text">
+  <label for=""></label>
+  <input type="text">
+  <label for=""></label>
+  <input type="text">
+  <label for=""></label>
+  <input type="text">
 </form>
 
 </div>
